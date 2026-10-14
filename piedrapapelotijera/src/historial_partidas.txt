@@ -1,3 +1,0 @@
-1,Alexis Maier,Piedra,Tijera,Victoria
-2,Alexis Maier,Papel,Piedra,Victoria
-3,Alexis Maier,Tijera,Papel,Victoria
