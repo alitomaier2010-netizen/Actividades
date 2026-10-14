@@ -1,0 +1,25 @@
+# Normalización de finales de línea (pedido en la Actividad 7)
+# * text=auto eol=lf  -> el repositorio guarda siempre LF
+# * *.bat eol=crlf      -> los scripts de Windows necesitan CRLF para ejecutarse
+
+*               text=auto eol=lf
+
+*.cpp           text eol=lf
+*.h             text eol=lf
+*.hpp           text eol=lf
+*.py            text eol=lf
+*.md            text eol=lf
+*.txt           text eol=lf
+*.json          text eol=lf
+*.yml           text eol=lf
+*.gitignore     text eol=lf
+*.gitattributes text eol=lf
+
+*.bat           text eol=crlf
+*.cmd           text eol=crlf
+
+*.png           binary
+*.pdf           binary
+*.exe           binary
+*.o             binary
+*.obj           binary
