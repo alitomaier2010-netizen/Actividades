@@ -1,0 +1,75 @@
+# ============================================================
+# EEST N° 1 "Eduardo Ader" — Vicente López
+# Laboratorio de Programación (LPR) — 5° Año 3° División
+# .gitignore unificado del repositorio de Actividades
+# ============================================================
+
+# ---- Archivos compilados / ejecutables (Windows) ----
+*.exe
+*.exe~
+*.exe.manifest
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+*.lastbuildstate
+*.sconsign.dblite
+*.aps
+
+# ---- Ejecutables con extension / salida de compilador ----
+*.out
+*.app
+*.com
+*.so
+*.dll
+*.lib
+
+# ---- Configuracion del entorno de desarrollo ----
+.vscode/
+!.vscode/extensions.json
+.idea/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.swp
+*.swo
+*~
+
+# ---- Datos de compilacion / cache ----
+[Cc]ache/
+__pycache__/
+*.py[cod]
+*$py.class
+*.d
+*.o.d
+
+# ---- Datos de la Actividad 7 (persistencia del juego) ----
+# El archivo historial_partidas.txt SI se versiona (es evidencia del entregable).
+# Si se generan archivos de partida de prueba, se ignoran con este patron:
+src/*_partida_prueba.txt
+
+# ---- Sistema operativo ----
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+ehthumbs.db
+*.lnk
+
+# ---- Office / documentos temporales ----
+~$*
+*.tmp
+*.bak
+*.swp
+
+# ---- Paquetes comprimidos (no se aceptan entregas en ZIP/RAR) ----
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
