@@ -33,8 +33,9 @@ las consignas de las actividades 5 a 8.
 - Actividad 5 — Modelado de datos con `struct` y acceso a sus miembros mediante
   punteros y operador flecha (`->`).
 
-### Pendiente
-- Actividades 6, 7 y 8 (consignas más complejas, se entregan aparte).
-- Informes APA v7 en PDF para cada actividad (`docs/`).
-- Manuales técnico y de usuario (`docs/manuales/`).
-- Capturas de evidencia (`capturas/`).
+### Resuelto (Actividades 6, 7 y 8)
+- Actividad 6 — Taller de Repaso General (`repasogeneral/` + rama `actividad-6`). ✅
+- Actividad 7 — Mini Juego Piedra, Papel o Tijera + Persistencia (`piedrapapelotijera/` + rama `actividad-7`). ✅
+- Actividad 8 — Juego de Naves POO (`juegodenaves/` + rama `actividad-8`). ✅
+- Informes APA v7 en PDF por actividad generados en `docs/`. ✅
+- Manuales técnico y de usuario por actividad en `docs/manuales/`. ✅

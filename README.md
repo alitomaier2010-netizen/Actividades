@@ -61,9 +61,9 @@ dejan de funcionar.
 | 3 | `calculoarea/` | `src/Act 3 - calculo_area.cpp` | ✅ |
 | 4 | `cadenaspunteros/` | `src/Act 4 - cadenas_punteros.cpp` | ✅ |
 | 5 | `sistemaproyecto/` | `src/Act 5 - struct_punteros.cpp` | ✅ |
-| 6 | `repasogeneral/` | `src/Act 6 - repasogeneral.cpp` | ⏳ pendiente |
-| 7 | `piedrapapelotijera/` | `src/Act 7 - piedrapapelotijera.cpp` | ⏳ pendiente |
-| 8 | `juegodenaves/` | `src/Act 8 - juegodenaves.cpp` | ⏳ pendiente |
+| 6 | `repasogeneral/` | `repasogeneral/src/main.cpp` (+ `src/Act 6 - repasogeneral.cpp`) | ✅ |
+| 7 | `piedrapapelotijera/` | `piedrapapelotijera/src/main.cpp` (+ `src/Act 7 - piedrapapelotijera.cpp`) | ✅ |
+| 8 | `juegodenaves/` | `juegodenaves/src/main.cpp` (+ `src/Act 8 - juegodenaves.cpp`) | ✅ |
 
 ---
 
