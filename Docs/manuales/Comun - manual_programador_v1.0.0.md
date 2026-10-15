@@ -23,7 +23,7 @@ lenguajes (`proyecto_cpp/` y `proyecto_python/`).
 ├── .gitignore              Excluye .exe, *.out, .vscode/, cachés y comprimidos
 ├── LICENSE                 Licencia MIT de uso escolar
 ├── README.md               Portada del proyecto
-├── docs/
+├── Docs/
 │   ├── manuales/           Este manual y el manual de usuario
 │   └── CHANGELOG.md        Historial de versiones (SemVer / DocVer)
 ├── src/                    Código fuente C++ (un archivo por actividad)
@@ -257,7 +257,7 @@ Convenciones de commit recomendadas: `feat:`, `fix:`, `docs:`, `refactor:`.
 
 - Los `.exe` **no** se suben (ver `.gitignore`).
 - Los `.png` de `capturas/` **sí** se suben: son la evidencia evaluada.
-- Los informes `.pdf` de `docs/` **sí** se suben.
+- Los informes `.pdf` de `Docs/` **sí** se suben.
 - `src/historial_partidas.txt` de la Actividad 7 **sí** se sube: demuestra que la
   persistencia en disco funciona.
 
