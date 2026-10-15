@@ -152,10 +152,10 @@ consigna:
 | 2 | `docs/InformeProyectoHOLAMUNDO.pdf` |
 | 3 | `docs/InformeProyectoCALCULOAREA.pdf` |
 | 4 | `docs/InformeProyectoCADENASPUNTEROS.pdf` |
-| 5 | `docs/EEST1_LPR2026_ACT05_[ApellidoNombre_Grupo]_Informe_v1.0.0.pdf` |
-| 6 | `docs/InformeEEST1_LPR2026_ACT06_G99_Informe_v1.0.0.pdf` |
-| 7 | `docs/InformeEEST1_LPR2026_ACT07_G03_Informe_v1.0.0.pdf` |
-| 8 | `docs/InformeEEST1_LPR2026_ACT08_G03_v1.0.0.pdf` |
+| 5 | `docs/EEST1_LPR2026_ACT05_MaierAlexis_G04_Informe_v1.0.0.pdf` |
+| 6 | `docs/InformeEEST1_LPR2026_ACT06_G04_Informe_v1.0.0.pdf` |
+| 7 | `docs/InformeEEST1_LPR2026_ACT07_G04_Informe_v1.0.0.pdf` |
+| 8 | `docs/InformeEEST1_LPR2026_ACT08_G04_v1.0.0.pdf` |
 
 Los `.pdf` de los manuales (programador y usuario) van en `docs/manuales/`
 con la nomenclatura `manual_programador_v1.0.0.*` y `manual_usuario_v1.0.0.*`.

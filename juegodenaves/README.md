@@ -19,7 +19,7 @@ juegodenaves/
 │   │   ├── manual_usuario_v1.0.0.pdf
 │   │   └── manual_usuario_v1.0.0.md
 │   ├── CHANGELOG.md
-│   └── InformeEEST1_LPR2026_ACT08_G03_v1.0.0.pdf
+│   └── InformeEEST1_LPR2026_ACT08_G04_v1.0.0.pdf
 ├── src/
 │   └── main.cpp                  <-- Motor de juego con clases y objetos
 └── capturas/
