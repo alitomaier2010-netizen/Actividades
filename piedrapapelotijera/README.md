@@ -13,7 +13,7 @@ piedrapapelotijera/
 ├── .gitignore
 ├── LICENSE
 ├── README.md
-├── docs/
+├── Docs/
 │   ├── manuales/
 │   │   ├── manual_programador_v1.0.0.pdf
 │   │   ├── manual_programador_v1.0.0.md

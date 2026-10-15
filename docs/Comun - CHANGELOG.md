@@ -20,7 +20,7 @@ las consignas de las actividades 5 a 8.
 ### Añadido
 - Estructura unificada del repositorio (unión de las consignas de las
   actividades 1 a 8): `.gitattributes`, `.gitignore`, `LICENSE`, `README.md`,
-  `docs/`, `docs/manuales/`, `src/`, `capturas/`, `proyecto_cpp/`,
+  `Docs/`, `Docs/manuales/`, `src/`, `capturas/`, `proyecto_cpp/`,
   `proyecto_python/`.
 - Actividad 1 — Calculadora de edad exacta en C++ y Python, con validación de
   calendario (años bisiestos y cantidad de días por mes).
@@ -35,6 +35,6 @@ las consignas de las actividades 5 a 8.
 
 ### Pendiente
 - Actividades 6, 7 y 8 (consignas más complejas, se entregan aparte).
-- Informes APA v7 en PDF para cada actividad (`docs/`).
-- Manuales técnico y de usuario (`docs/manuales/`).
+- Informes APA v7 en PDF para cada actividad (`Docs/`).
+- Manuales técnico y de usuario (`Docs/manuales/`).
 - Capturas de evidencia (`capturas/`).
