@@ -231,7 +231,7 @@ falta de permisos de administrador. Si es tu caso, usá **OnlineGDB**
 1. Ejecutá cada programa y hacé una **captura de pantalla** de la terminal con
    tu **nombre y apellido visible**.
 2. Guardá las capturas en la carpeta `capturas/` con los nombres indicados.
-3. Redactá el informe en formato **APA v7** y guardalo como PDF en `docs/`.
+3. Redactá el informe en formato **APA v7** y guardalo como PDF en `Docs/`.
 4. Completá la carpeta de campo y la planilla del P.I.A.
 5. Subí **todo** (carpetas y archivos) al repositorio de GitHub.
 
