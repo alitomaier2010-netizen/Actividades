@@ -22,7 +22,7 @@ pida, salvo `proyecto_cpp/` y `proyecto_python/` (Actividad 1) y
 ├── .gitignore                      <-- Exclusiones (.exe, *.out, .vscode/)
 ├── Comun - LICENSE                 <-- Licencia MIT escolar
 ├── Comun - README.md               <-- Portada del proyecto
-├── docs/                           <-- Carpeta de documentación formal
+├── Docs/                           <-- Carpeta de documentación formal
 │   ├── manuales/                   <-- Manuales técnico y de usuario (Act. 5-8)
 │   │   ├── Comun - manual_programador_v1.0.0.md
 │   │   └── Comun - manual_usuario_v1.0.0.md
@@ -141,23 +141,23 @@ Si en las PCs del laboratorio no se puede compilar, es **obligatorio** usar
 
 ---
 
-## 📄 Entregables en `docs/`
+## 📄 Entregables en `Docs/`
 
-Los informes en formato **APA v7** van en `docs/` con los nombres que fija cada
+Los informes en formato **APA v7** van en `Docs/` con los nombres que fija cada
 consigna:
 
 | Actividad | Archivo del informe |
 |:---------:|---------------------|
-| 1 | `docs/InformeProyectoCalculadoraEdad.pdf` |
-| 2 | `docs/InformeProyectoHOLAMUNDO.pdf` |
-| 3 | `docs/InformeProyectoCALCULOAREA.pdf` |
-| 4 | `docs/InformeProyectoCADENASPUNTEROS.pdf` |
-| 5 | `docs/EEST1_LPR2026_ACT05_MaierAlexis_G04_Informe_v1.0.0.pdf` |
-| 6 | `docs/InformeEEST1_LPR2026_ACT06_G04_Informe_v1.0.0.pdf` |
-| 7 | `docs/InformeEEST1_LPR2026_ACT07_G04_Informe_v1.0.0.pdf` |
-| 8 | `docs/InformeEEST1_LPR2026_ACT08_G04_v1.0.0.pdf` |
+| 1 | `Docs/InformeProyectoCalculadoraEdad.pdf` |
+| 2 | `Docs/InformeProyectoHOLAMUNDO.pdf` |
+| 3 | `Docs/InformeProyectoCALCULOAREA.pdf` |
+| 4 | `Docs/InformeProyectoCADENASPUNTEROS.pdf` |
+| 5 | `Docs/EEST1_LPR2026_ACT05_MaierAlexis_G04_Informe_v1.0.0.pdf` |
+| 6 | `Docs/InformeEEST1_LPR2026_ACT06_G04_Informe_v1.0.0.pdf` |
+| 7 | `Docs/InformeEEST1_LPR2026_ACT07_G04_Informe_v1.0.0.pdf` |
+| 8 | `Docs/InformeEEST1_LPR2026_ACT08_G04_v1.0.0.pdf` |
 
-Los `.pdf` de los manuales (programador y usuario) van en `docs/manuales/`
+Los `.pdf` de los manuales (programador y usuario) van en `Docs/manuales/`
 con la nomenclatura `manual_programador_v1.0.0.*` y `manual_usuario_v1.0.0.*`.
 
 ---
