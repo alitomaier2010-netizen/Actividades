@@ -20,7 +20,7 @@ piedrapapelotijera/
 │   │   ├── manual_usuario_v1.0.0.pdf
 │   │   └── manual_usuario_v1.0.0.md
 │   ├── CHANGELOG.md
-│   └── InformeEEST1_LPR2026_ACT07_G03_Informe_v1.0.0.pdf
+│   └── InformeEEST1_LPR2026_ACT07_G04_Informe_v1.0.0.pdf
 ├── src/
 │   ├── main.cpp                  <-- Juego + persistencia en disco
 │   └── historial_partidas.txt    <-- Archivo generado por el programa
