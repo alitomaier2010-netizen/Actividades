@@ -12,7 +12,7 @@ El formato sigue Keep a Changelog y el versionado sigue SemVer / DocVer.
 - Estructura obligatoria del repositorio `repasogeneral/`.
 - `src/main.cpp`: Suite de Taller de Repaso (Recursividad, Busqueda Secuencial, Intercambio con Punteros).
 - `docs/manuales/`: Manual del Programador y Manual del Usuario v1.0.0.
-- `docs/InformeEEST1_LPR2026_ACT06_G99_Informe_v1.0.0.pdf` (Normas APA v7).
+- `docs/InformeEEST1_LPR2026_ACT06_G04_Informe_v1.0.0.pdf` (Normas APA v7).
 - Banners con el integrante Alexis Maier (REGLA OBLIGATORIA antiplagio).
 
 ### Cambiado

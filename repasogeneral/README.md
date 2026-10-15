@@ -17,7 +17,7 @@ repasogeneral/
 │   │   ├── manual_programador_v1.0.0.md
 │   │   └── manual_usuario_v1.0.0.md
 │   ├── CHANGELOG.md
-│   └── InformeEEST1_LPR2026_ACT06_G99_Informe_v1.0.0.pdf
+│   └── InformeEEST1_LPR2026_ACT06_G04_Informe_v1.0.0.pdf
 ├── src/
 │   └── main.cpp                  <-- Suite de retos del taller
 └── capturas/
