@@ -73,3 +73,16 @@ ehthumbs.db
 *.7z
 *.tar
 *.gz
+
+
+# ============================================================
+# Repositorios de referencia del Prof. York (guias / bases)
+# Clonados solo como material de consulta y comparacion.
+# NO forman parte de la entrega: no deben subirse al repositorio.
+# ============================================================
+calculadoraedad/
+holamundo/
+calculoarea/
+cadenaspunteros/
+sistemaproyecto/
+webappdeved/
