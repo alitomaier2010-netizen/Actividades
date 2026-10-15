@@ -20,7 +20,7 @@ las consignas de las actividades 5 a 8.
 ### Añadido
 - Estructura unificada del repositorio (unión de las consignas de las
   actividades 1 a 8): `.gitattributes`, `.gitignore`, `LICENSE`, `README.md`,
-  `docs/`, `docs/manuales/`, `src/`, `capturas/`, `proyecto_cpp/`,
+  `Docs/`, `Docs/manuales/`, `src/`, `capturas/`, `proyecto_cpp/`,
   `proyecto_python/`.
 - Actividad 1 — Calculadora de edad exacta en C++ y Python, con validación de
   calendario (años bisiestos y cantidad de días por mes).
@@ -37,5 +37,5 @@ las consignas de las actividades 5 a 8.
 - Actividad 6 — Taller de Repaso General (`repasogeneral/` + rama `actividad-6`). ✅
 - Actividad 7 — Mini Juego Piedra, Papel o Tijera + Persistencia (`piedrapapelotijera/` + rama `actividad-7`). ✅
 - Actividad 8 — Juego de Naves POO (`juegodenaves/` + rama `actividad-8`). ✅
-- Informes APA v7 en PDF por actividad generados en `docs/`. ✅
-- Manuales técnico y de usuario por actividad en `docs/manuales/`. ✅
+- Informes APA v7 en PDF por actividad generados en `Docs/`. ✅
+- Manuales técnico y de usuario por actividad en `Docs/manuales/`. ✅
