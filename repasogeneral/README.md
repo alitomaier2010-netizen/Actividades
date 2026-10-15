@@ -12,7 +12,7 @@ repasogeneral/
 ├── .gitignore
 ├── LICENSE
 ├── README.md
-├── docs/
+├── Docs/
 │   ├── manuales/
 │   │   ├── manual_programador_v1.0.0.md
 │   │   └── manual_usuario_v1.0.0.md
